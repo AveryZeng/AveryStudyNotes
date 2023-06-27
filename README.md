@@ -4,3 +4,4 @@
 # ML_E4_20230614: Exercise on stock price prediction
 # ML_E5_20230614: Exercise on Recommend System
 # ML_E6_20230616: Exercise on Face Recognition
+# ML_E7_20230627: Exercise on Longevity Factors Exploration
